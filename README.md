@@ -9,5 +9,5 @@ the user lands on detail activity and the notification gets dismissed. In detail
 the status of the download will be displayed and animated via MotionLayout upon opening the activity.
 
 
-Udacity Nanodegree program
-Advanced Android Kotlin Development
+Udacity Nanodegree program.
+Advanced Android Kotlin Development.
